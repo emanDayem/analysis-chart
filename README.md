@@ -1,6 +1,6 @@
 This repo is implementing the analytics dashboard that shown below in React:
 
-![design](./chart-design.jpg)
+![design](./chart-design.PNG)
 
 Used Frameworks & Libraries:
 
