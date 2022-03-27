@@ -1,0 +1,32 @@
+.schools-summary-container{
+    padding-left: 20px;
+    display: grid;
+    grid-template-columns: 10% 90%; 
+    grid-column-gap: 10px;
+}
+.checkbox-round {
+    width: 1.3em;
+    height: 1.3em;
+    background-color: white;
+    border-radius: 50%;
+    vertical-align: middle;
+    border: 6px solid white;
+    appearance: none;
+    -webkit-appearance: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.checkbox-round:checked {
+    background-color: red;
+}
+
+.schools-stats{
+    margin-bottom: 20px;
+}
+.lessons-count{
+    display: inline-block;
+    font-size: 20px;
+    padding-right: 5px;
+    font-weight: 600;    
+}

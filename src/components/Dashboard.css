@@ -1,0 +1,21 @@
+
+.Dashboard {
+  padding: 30px;
+  height: 100%;
+  overflow: hidden;
+}
+.dashboard-title{
+  color: #A569BD;
+}
+.analysis-container{
+  display: grid;
+  grid-template-columns: 70% 30%; 
+  grid-column-gap: 10px;
+  margin-top: 50px;
+  background: white;
+}
+.statistics-container{
+  padding: 35px 10px 10px 40px;
+  border-left: 1px solid #AEB6BF;
+  overflow-y: visible;
+}

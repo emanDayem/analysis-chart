@@ -1,0 +1,4 @@
+.filter-item{
+    display: grid;
+    grid-template-columns: 130px 250px;
+}
